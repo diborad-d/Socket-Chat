@@ -1,0 +1,17 @@
+body {
+  color: black;
+  background-attachment: fixed;
+  background-color: antiquewhite;
+}
+.chatImage {
+        float:right;
+        margin-left: '80%';
+        margin-bottom: '80%';
+    }
+
+     #cat {
+      font-size:" 36px";
+      color: brown;
+      cursor: pointer;
+
+    } 
